@@ -23,7 +23,7 @@ public class AllPages {
     private ExpandableListsPage expandableListsPage;
     private SpinnerPage spinnerPage;
     //======== burdan asagisi ios pageleri
-    //source deneme
+    //yeni ide sonrasi deneme
     private AlertViewsPage alertViewsPage;
     private IOSSwitchPage iosSwitchPage;
     private PickerViewPage pickerViewPage;
